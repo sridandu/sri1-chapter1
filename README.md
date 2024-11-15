@@ -2,7 +2,7 @@
 
 ### Step 1: Fork this repository!
 <br>
-1. Click the Fork button and name the fork "yourname-chaptername" (make sure to copy the main branch!)
+1. Click the Fork button on the top-right and name the fork "yourname-chaptername" (make sure to copy the main branch!)
 <img width="561" alt="image" src="https://github.com/user-attachments/assets/e289e063-bb10-47cb-8d53-2babb3570d50">
 <br><br>
 2. Edit the chapter number and line number you were assigned! Click the file name and get editting!
